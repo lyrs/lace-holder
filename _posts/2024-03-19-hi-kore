@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Answer for Kore"
+date: 2024-03-19 20:06:12 +0100
+categories: ideas
+---
+
+So Kore asked
+> this is gonna sound dumb but how is the mobile in-browser editing support for github nowadays?
+
+And, it's honestly not tragic. 
+Most issues I find coming from the keyboard rather than GitHub.
+It also didn't try to reload when I went to copy a message from Discord.
+Definitely doable for simple files, one at a time.
+
+Sent from a Xiaomi phone 
