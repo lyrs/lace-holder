@@ -22,8 +22,8 @@ title: Lace Holder site
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Sample webiste to show my hot friends.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lace-holder" # the subpath of your site, e.g. /blog
+url: "https://lyrs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  lyrs
 
